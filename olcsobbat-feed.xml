@@ -29,7 +29,7 @@
     <manufacturer>TOYZ</manufacturer>
     <name>Akasztható kormányos fejlesztő babajáték</name>
     <grossprice>4690</grossprice>
-    <stock>131</stock>
+    <stock>129</stock>
     <itemid>TOYZ-9016</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/interaktiv-keszsegfejleszto-baba-jatek-pendant-with-steering-wheel</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/foto_add-46248_8504baa6-5bb0-4daf-a06e-502c3d1ac023.jpg?v=1776797792</urlpicture>
@@ -89,7 +89,7 @@
     <manufacturer>AKUKU</manufacturer>
     <name>Akuku fekete-fehér babakocsi csörgő</name>
     <grossprice>1190</grossprice>
-    <stock>59</stock>
+    <stock>57</stock>
     <itemid>AKUKU-687</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/akuku-fekete-feher-babakocsi-csorgo-akuku-687</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-11922.jpg?v=1777105139</urlpicture>
@@ -113,7 +113,7 @@
     <manufacturer>AKUKU</manufacturer>
     <name>Akuku felfújható vizes játszószőnyeg babáknak</name>
     <grossprice>2690</grossprice>
-    <stock>90</stock>
+    <stock>88</stock>
     <itemid>AKUKU-902</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/akuku-felfujhato-vizes-jatszoszonyeg-babaknak-akuku-902</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-13867.jpg?v=1777105155</urlpicture>
@@ -125,7 +125,7 @@
     <manufacturer>AKUKU</manufacturer>
     <name>Akuku felfújható vizes játszószőnyeg babáknak, 67 x 49 cm</name>
     <grossprice>2690</grossprice>
-    <stock>153</stock>
+    <stock>152</stock>
     <itemid>AKUKU-901</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/akuku-felfujhato-vizes-jatszoszonyeg-babaknak-67-x-49-cm-akuku-901</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-12453.jpg?v=1777105146</urlpicture>
@@ -493,18 +493,6 @@
     <category>Baba rágóka</category>
   </product>
   <product>
-    <id>ON-865</id>
-    <manufacturer>BABYONO</manufacturer>
-    <name>BabyOno elefánt szenzoros baba csörgő</name>
-    <grossprice>790</grossprice>
-    <stock>1</stock>
-    <itemid>ON-865</itemid>
-    <urlsite>https://toysland-9695.myshopify.com/products/babyono-elefant-szenzoros-baba-csorgo-on-865</urlsite>
-    <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/foto_add-48638.jpg?v=1777105228</urlpicture>
-    <describe>🎵 Miért jó választás ez a baba csörgő? A BabyOno elefánt szenzoros baba csörgő ideális első játék lehet, mert egyszerre könnyen megfogható, hangot ad és mozgásra ösztönöz. A csörgő hang gyorsan felkelti a baba figyelmét, miközben a rázás, nyúlás és átadás gyakorlása segíti a kézügyesség fejlődését. ✅ ✅ A baba csörgő legfontosabb előnyei csörgő hanggal kelti fel a baba figyelmét és mozgásra ösztönöz. dallamokkal vagy hanghatásokkal teszi érdekesebbé a játékot és a megnyugvást. könnyen megfogható első játék. csörgő hanggal kelti fel a figyelmet. segíti a kéz-szem koordinációt. 🧸 Hogyan fejleszti a baba érzékelését? A baba a csörgővel megtapasztalja, hogy a saját mozdulata hangot vált ki. Ez az egyszerű ok-okozati élmény nagyon fontos: ösztönzi az ismétlést, a nyúlást, a rázást, a fogásváltást és a kéz-szem koordinációt. 🧼 Könnyű használat kis kezekhez A csörgő kis helyen elfér, ezért könnyen magaddal viheted babakocsiban, pelenkázótáskában vagy autós utazásra is. Akkor igazán hasznos, amikor gyorsan kell valami, ami leköti a baba figyelmét, mégsem túl bonyolult vagy harsány játék. 👶 Kinek ajánlott ez a csörgő? A BabyOno elefánt szenzoros baba csörgő jó választás babáknak, első játékhoz, ajándékba vagy a mindennapi rutin megkönnyítésére. ✅ Anyag, méret és hasznos tudnivalók Márka: BabyOno Ajánlott korosztály: babáknak készült Anyag: safe and durable materials A gyártói leírás alapján több fejlesztő és szenzoros funkciót tartalmaz 🛒 Rendeld meg ezt a baba csörgőt Add babád kezébe a BabyOno elefánt szenzoros baba csörgő terméket, és támogasd a felfedezést egyszerű, szerethető első játékkal!</describe>
-    <category>Baba csörgő</category>
-  </product>
-  <product>
     <id>ONO-96221</id>
     <manufacturer>BABYONO</manufacturer>
     <name>BabyOno epres fejlesztő rágóka csörgővel</name>
@@ -869,7 +857,7 @@
     <manufacturer>BABYONO</manufacturer>
     <name>BabyOno XPE fejlesztő játszószőnyeg, 150 x 200 cm</name>
     <grossprice>6490</grossprice>
-    <stock>116</stock>
+    <stock>115</stock>
     <itemid>ONO-77802</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/babyono-xpe-fejleszto-jatszoszonyeg-150-x-200-cm-ono-77802</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-15739.jpg?v=1777105214</urlpicture>
@@ -1085,7 +1073,7 @@
     <manufacturer>CHICCO TOYS</manufacturer>
     <name>Chicco Next2Dreams szürke zenélő kiságyforgó</name>
     <grossprice>13990</grossprice>
-    <stock>19</stock>
+    <stock>18</stock>
     <itemid>CHICZ-0911</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/chicco-next2dreams-szurke-zenelo-kisagyforgo-chicz-0911</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/foto_add-28963.jpg?v=1777105134</urlpicture>
@@ -1145,7 +1133,7 @@
     <manufacturer>CHICCO TOYS</manufacturer>
     <name>Chicco rózsaszín projektoros maci éjszakai fény</name>
     <grossprice>11790</grossprice>
-    <stock>6</stock>
+    <stock>5</stock>
     <itemid>CHICZ-0611</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/chicco-rozsaszin-projektoros-maci-ejszakai-feny-chicz-0611</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/foto_add-26687.jpg?v=1777105122</urlpicture>
@@ -1265,7 +1253,7 @@
     <manufacturer>TOYZ</manufacturer>
     <name>Elefántos játék telefon fejlesztő babajáték</name>
     <grossprice>1390</grossprice>
-    <stock>19</stock>
+    <stock>18</stock>
     <itemid>TOYZ-9004</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/interaktiv-keszsegfejleszto-baba-jatek-phone-elefant</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-13892_1bd457a7-d580-4104-9f5b-9240d623fbd2.jpg?v=1776797753</urlpicture>
@@ -1313,7 +1301,7 @@
     <manufacturer>AKUKU</manufacturer>
     <name>Farmos fürdőjáték szett babáknak</name>
     <grossprice>1190</grossprice>
-    <stock>41</stock>
+    <stock>39</stock>
     <itemid>AKUKU-6901</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/furdojatek-szett-kadba-farm-a0168</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-13868_4cb4d6bb-712c-41a4-a0e3-83e68749f389.jpg?v=1776797748</urlpicture>
@@ -1469,7 +1457,7 @@
     <manufacturer>TOYZ</manufacturer>
     <name>Játék kontroller fejlesztő babajáték</name>
     <grossprice>2290</grossprice>
-    <stock>126</stock>
+    <stock>124</stock>
     <itemid>TOYZ-9011</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/interaktiv-keszsegfejleszto-baba-jatek-controller</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-14207_4c863ba6-3e24-41f8-9eaa-54f3dd64f70c.jpg?v=1776797761</urlpicture>
@@ -1481,7 +1469,7 @@
     <manufacturer>TOYZ</manufacturer>
     <name>Játék kormány fejlesztő babajáték</name>
     <grossprice>2790</grossprice>
-    <stock>249</stock>
+    <stock>245</stock>
     <itemid>TOYZ-9006</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/interaktiv-keszsegfejleszto-baba-jatek-steering-wheel</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-13894_9f2a60a3-31b4-4e7b-be99-13bdf7b3386a.jpg?v=1776797754</urlpicture>
@@ -1583,18 +1571,6 @@
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-2193_38997974-f076-4b68-b5a8-4dec644c2642.jpg?v=1776797702</urlpicture>
     <describe>🦷 Miért jó választás ez a baba rágóka? A Hűthető vizes rágóka - kormánykerék praktikus segítség lehet azokban a napokban, amikor a baba ínye érzékenyebb, és mindent szívesen a szájába venne. A rágóka célja, hogy biztonságosabb, kényelmesebb alternatívát adjon a mindennapi fogzási időszakban, miközben játékos formájával le is köti a kicsi figyelmét. 🍼 Kényelmes segítség a fogzás időszakában A texturált, könnyen rágható felület gyengéden masszírozhatja az ínyt, ami komfortosabb érzetet adhat a babának. A kialakítás segíthet abban, hogy a gyermek önállóan fedezze fel a különböző felületeket, miközben természetes módon gyakorolja a fogást és a kéz-száj koordinációt. 🤲 Könnyen megfogható kialakítás kis kezekhez A kis kezekhez igazított forma miatt a rágóka könnyen megfogható, forgatható és megtartható. Ez nemcsak kényelmesebb használatot jelent, hanem játék közben támogatja a finommotorika és a kézügyesség fejlődését is. ✅ ✅ Bababarát anyaghasználat és biztonság Mindig ellenőrizd a játék állapotát használat előtt, és sérülés esetén ne add tovább a gyermeknek. A terméket felnőtt felügyelete mellett ajánlott használni, különösen kisebb babáknál. 💡 Hasznos tudnivalók a termékről Hűthető vizes rágóka - kormánykerék – Enyhülés a fogzási fájdalmakra A fogzás minden baba és szülő életében nehéz időszak, de egy megfelelő rágóka csodákra képes! A Hűthető vizes rágóka - kormánykerék kiváló minőségű, biztonságos anyagokból készült, és azonnali megkönnyebbülést nyújt a kicsiknek a legnyűgösebb napokon is. Miért fogjátok imádni? Hűthető kialakítás: Tedd a hűtőbe egy rövid időre! A hideg felület... 🧼 Tisztítás és mindennapi használat fogzás idején is praktikus választás könnyű, baba kézbe illő kialakítás texturált felület az íny gyengéd masszírozásához mindennapi használatra alkalmas babatermék 🛒 Rendeld meg most Válaszd a Hűthető vizes rágóka - kormánykerék terméket, ha egy hasznos, bababarát és könnyen használható rágókát keresel a fogzás időszakára!</describe>
     <category>Baba rágóka</category>
-  </product>
-  <product>
-    <id>CHIC-73</id>
-    <manufacturer>CHICCO</manufacturer>
-    <name>Kulcsos baba csörgő</name>
-    <grossprice>1790</grossprice>
-    <stock>2</stock>
-    <itemid>CHIC-73</itemid>
-    <urlsite>https://toysland-9695.myshopify.com/products/zenelo-kulcscsomo-csorgo</urlsite>
-    <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-11049_a7a447cc-dc26-4ea9-b44f-e76e78960ebc.jpg?v=1776797733</urlpicture>
-    <describe>🎵 Miért jó választás ez a zenélő fejlesztő játék? A Zenélő kulcscsomó csörgő játékos formában vezeti be a gyermeket a hangok, dallamok és ritmusok világába. A zenélő játékok különösen jók arra, hogy felkeltsék a figyelmet, mozgásra ösztönözzenek és örömteli tanulási élményt adjanak. 🌈 Hangok, ritmusok és első zenei élmények A gombok, hangok, dallamok vagy ütögethető elemek segíthetik a szem-kéz koordináció, a ritmusérzék és a finommotorika fejlődését. A gyermek megtapasztalhatja, hogy a saját mozdulatai hangot vagy fényt válthatnak ki, ami erősíti az ok-okozati gondolkodást. 🤲 Kézügyesség és figyelem fejlesztése A zenés játék ideális lehet önálló felfedezéshez és közös szülő-gyermek játékhoz is. A dallamok, fények és interaktív részletek változatossá teszik a mindennapi játékidőt. 🧼 ✅ Egyszerű használat kisgyermekeknek Mindig ellenőrizd a játék állapotát használat előtt, és sérülés esetén ne add tovább a gyermeknek. A terméket felnőtt felügyelete mellett ajánlott használni, különösen kisebb babáknál. 💡 Hasznos tudnivalók a termékről Zenélő kulcscsomó csörgő – Játékos készségfejlesztés minden napra A babák a játékon keresztül fedezik fel a világot! A Zenélő kulcscsomó csörgő nemcsak hosszú időre leköti és szórakoztatja a kicsit, de közben észrevétlenül fejleszti az érzékszerveit és a finommotorikáját is. Főbb előnyök és fejlesztő hatások: Auditív stimuláció: A finom csörgő hang felkelti a baba figyelmét, ösztönzi a hang irányába történő... 🎁 Kinek ajánljuk ezt a zenélő játékot? első zenei élmények kisgyermekeknek fejlesztheti a ritmusérzéket és figyelmet interaktív, játékos tanulási forma ajándéknak is látványos választás 🛒 Rendeld meg most Indulhat a játékos zenélés, válaszd a Zenélő kulcscsomó csörgő terméket gyermekednek!</describe>
-    <category>Baba csörgő</category>
   </product>
   <product>
     <id>CHICZ-12121</id>
@@ -1709,7 +1685,7 @@
     <manufacturer>AKUKU</manufacturer>
     <name>Panda szilikon baba rágóka</name>
     <grossprice>1190</grossprice>
-    <stock>49</stock>
+    <stock>47</stock>
     <itemid>AKUKU-655</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/szilikon-ragoka-babaknak-panda</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-9221_a018e915-b333-413a-9b9c-f559e1201586.jpg?v=1776797714</urlpicture>
@@ -1721,7 +1697,7 @@
     <manufacturer>TOYZ</manufacturer>
     <name>Pillangós fejlesztő babajáték</name>
     <grossprice>1590</grossprice>
-    <stock>150</stock>
+    <stock>146</stock>
     <itemid>TOYZ-9009</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/interaktiv-keszsegfejleszto-baba-jatek-pillango</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-14199_7761b1c2-877b-40f3-92f7-4a4142b977ff.jpg?v=1776797758</urlpicture>
@@ -1781,7 +1757,7 @@
     <manufacturer>AKUKU</manufacturer>
     <name>Puha plüss kalapács babajáték</name>
     <grossprice>1290</grossprice>
-    <stock>43</stock>
+    <stock>40</stock>
     <itemid>AKUKU-140326</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/puha-pluss-jatek-babaknak</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-13691_e88771fb-ba91-43e5-9c4a-390bb8df7027.jpg?v=1776797747</urlpicture>
@@ -1853,7 +1829,7 @@
     <manufacturer>SENSILLO</manufacturer>
     <name>Sensillo békás babakocsi körforgó játék</name>
     <grossprice>2890</grossprice>
-    <stock>221</stock>
+    <stock>219</stock>
     <itemid>SILLOZ-0540</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/sensillo-bekas-babakocsi-korforgo-jatek-silloz-0540</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-16546.jpg?v=1777105272</urlpicture>
@@ -1925,7 +1901,7 @@
     <manufacturer>SENSILLO</manufacturer>
     <name>Sensillo Jungle babakocsi fejlesztő rúd</name>
     <grossprice>4990</grossprice>
-    <stock>80</stock>
+    <stock>79</stock>
     <itemid>SILLOZ-0552</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/sensillo-jungle-babakocsi-fejleszto-rud-silloz-0552</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-16523.jpg?v=1777105246</urlpicture>
@@ -1973,7 +1949,7 @@
     <manufacturer>SENSILLO</manufacturer>
     <name>Sensillo színes madaras utazó csörgő</name>
     <grossprice>3490</grossprice>
-    <stock>630</stock>
+    <stock>628</stock>
     <itemid>SILLOZ-0502</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/sensillo-szines-madaras-utazo-csorgo-silloz-0502</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-16544.jpg?v=1777105268</urlpicture>
@@ -1985,7 +1961,7 @@
     <manufacturer>SENSILLO</manufacturer>
     <name>Sensillo színes nyuszis utazó csörgő</name>
     <grossprice>3190</grossprice>
-    <stock>461</stock>
+    <stock>459</stock>
     <itemid>SILLOZ-0500</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/sensillo-szines-nyuszis-utazo-csorgo-silloz-0500</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-16542.jpg?v=1777105265</urlpicture>
@@ -2237,7 +2213,7 @@
     <manufacturer>TOYZ</manufacturer>
     <name>Toyz Cosmos babakocsi fejlesztő rúd</name>
     <grossprice>6290</grossprice>
-    <stock>52</stock>
+    <stock>51</stock>
     <itemid>TOYZ-9112</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/toyz-cosmos-babakocsi-fejleszto-rud-toyz-9112</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/foto_add-44879.jpg?v=1777105201</urlpicture>
@@ -2309,7 +2285,7 @@
     <manufacturer>TOYZ</manufacturer>
     <name>Toyz Little Driver interaktív autós fejlesztő asztal</name>
     <grossprice>8990</grossprice>
-    <stock>587</stock>
+    <stock>585</stock>
     <itemid>TOYZ-9005</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/toyz-little-driver-interaktiv-autos-fejleszto-asztal-toyz-9005</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-13893.jpg?v=1777105158</urlpicture>
@@ -2513,7 +2489,7 @@
     <manufacturer>TOYZ</manufacturer>
     <name>Zenélő hal fejlesztő babajáték</name>
     <grossprice>1990</grossprice>
-    <stock>760</stock>
+    <stock>758</stock>
     <itemid>TOYZ-9007</itemid>
     <urlsite>https://toysland-9695.myshopify.com/products/interaktiv-keszsegfejleszto-baba-jatek-musical-fish</urlsite>
     <urlpicture>https://cdn.shopify.com/s/files/1/0935/7620/0578/files/product-13896_75a11e47-595a-4c5a-9d8e-422222ed10f5.jpg?v=1776797757</urlpicture>
